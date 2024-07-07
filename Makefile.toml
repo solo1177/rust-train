@@ -1,0 +1,6 @@
+[tasks.build-and-run]
+description = "Build and run the Rust project"
+script = [
+    "cargo build",
+    "cargo run"
+]
