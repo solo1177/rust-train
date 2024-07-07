@@ -1,3 +1,5 @@
+mod sample1;
+
 fn main() {
-    println!("Hello, world!");
+    sample1::sample1();
 }
