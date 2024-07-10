@@ -10,7 +10,7 @@ pub fn value_print() {
 }
 
 pub fn if_test() {
-  let number = 1;
+    let number = 1;
     if number != 0 {
         println!("number was something other than zero");
     }
