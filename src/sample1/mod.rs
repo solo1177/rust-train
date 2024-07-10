@@ -15,3 +15,7 @@ pub fn if_test() {
         println!("number was something other than zero");
     }
 }
+
+pub fn print_response(x: &str) {
+    println!("{}", x);
+}
